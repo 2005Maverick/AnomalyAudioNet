@@ -268,6 +268,8 @@ Edit `config.json` to modify:
 - Update documentation
 - Use meaningful commit messages
 
+### Dataset Availability
+https://www.kaggle.com/datasets/junewookim/mad-dataset-military-audio-dataset
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details. 
